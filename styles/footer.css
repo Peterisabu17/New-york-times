@@ -104,7 +104,7 @@ footer {
     height: 360px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    gap: 30px;
+    gap: 20px;
     border-bottom: 1px solid rgb(207, 203, 203);
   }
 
@@ -115,7 +115,7 @@ footer {
   }
 
   .footer-closing-label h6 {
-    font-size: 5px;
+    font-size: 3px;
     color: grey;
     font-weight: 100;
     font-family: Arial;
