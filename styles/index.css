@@ -676,7 +676,7 @@ video {
 
   .section_2_main_grids_container {
     width: 100%;
-    height: 1800px;
+    height: 2200px;
     background-color: white;
     border-bottom: 3px double black;
     margin-bottom: 50px;
@@ -726,7 +726,7 @@ video {
 
   .right1 {
     width: 100%;
-    height: 40%;
+    height: 30%;
   }
 
   .right2 h5 {
@@ -751,6 +751,11 @@ video {
 
   .image_poster p {
     margin-top: 5px;
+  }
+
+  .image_poster img {
+    width: 100%;
+    height: 300px;
   }
 
   /* section 2 */
@@ -806,6 +811,7 @@ video {
 
   .section_2_b_left {
     width: 100%;
+    height: ;
   }
 
   .section_2_b_left_bottom h1 {
@@ -816,6 +822,11 @@ video {
     padding-left: 0;
     width: 100%;
     height: 100%;
+  }
+
+  .section_2_b_right img {
+    width: 100%;
+    height: 70%;
   }
 
   .section_2_b_right_grid h1 {
@@ -864,6 +875,32 @@ video {
   }
 
   .grid-pix-box img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .advert {
+    border-bottom: 3px double black;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 200px;
+  }
+
+  .advert p {
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .advert-image {
+    width: 100%;
+    height: 100%;
+  }
+
+  .advert-image img {
     width: 100%;
     height: 100%;
   }
